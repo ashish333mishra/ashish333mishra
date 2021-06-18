@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">Hi 👋, I'm Ashish a passionate developer from India</h3>
+<h3 align="center">Hi 👋, I'm Ashish, a passionate developer from India who just loves writing codes, my primary weapon is Java language and I am interested into backend development using Java frameworks and making systems efficient and robust.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish333mishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashish333mishra" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to reach out!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish-m-22047314a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashish-m-22047314a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10484162" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10484162" height="30" width="40" /></a>
